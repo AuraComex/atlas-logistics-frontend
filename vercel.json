@@ -2,9 +2,6 @@
   "version": 2,
   "buildCommand": "yarn install && yarn build",
   "outputDirectory": "dist",
-  "env": {
-    "VITE_API_URL": "@vite_api_url"
-  },
   "routes": [
     {
       "src": "/(.*)",
