@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "buildCommand": "npm install && npm run build",
+  "buildCommand": "yarn install && yarn build",
   "outputDirectory": "dist",
   "env": {
     "VITE_API_URL": "@vite_api_url"
