@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "buildCommand": "yarn install && yarn build",
+  "buildCommand": "npm install && npm run build",
   "outputDirectory": "dist",
   "routes": [
     {
